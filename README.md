@@ -22,7 +22,7 @@
       - https://github.com/conallob/hassio-addons
     - General purpose tech tools:
        - https://github.com/conallob/coding-interview-pattern-drill
-- ⚙️ My "dotfiles: https://github.com/conallob/dotfiles
+- ⚙️ My "dotfiles": https://github.com/conallob/dotfiles
 - 📫 More about me: https://www.conall.net
 - 😄 Pronouns: he/him
 
